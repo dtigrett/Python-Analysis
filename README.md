@@ -1,6 +1,7 @@
 # Python-Challenge
 This challenge consists of two parts:  Pybank1 and Pypoll Final
-Pybank used a python script that determined a financial analysis task using a csv file, budget.data
+Pybank used a python script that determined a financial analysis task using a csv file, budget.data.
+
 PyBank1 has the following analysis:
 
 Financial Analysis:
