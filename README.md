@@ -11,8 +11,8 @@ Financial Analysis:
   Total Months: 86
   Total: $38382578
   Average  Change: $-2315.12
-  Greatest Increase in Profits: ($1926159)
-  Greatest Decrease in Profits:  ($-2196167)
+  Greatest Increase in Profits: ($1926159) in February 2012
+  Greatest Decrease in Profits:  ($-2196167) in September 2013
   
   Pypoll Final used a python script that determined election results task using a csv file, election.data.
   
