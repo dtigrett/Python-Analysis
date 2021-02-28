@@ -1,10 +1,18 @@
-# Python-Challenge
-This challenge consists of two parts:  Pybank1 and Pypoll Final.
+# Python
+This challenge consists of two parts:  Pybank1 and Pypoll.
 
 
-Pybank1 used a python script that determined a financial analysis task using a csv file, budget.data.
 
-PyBank1 has the following analysis:
+Created a Python script to analyze the financial records of a company that will be provided as data set called [budget_data.csv]. 
+The dataset is composed of two columns: Date and Profit/Losses.
+
+The Python script will analyze the financial records to calculate each of the following:
+
+The total number of months included in the dataset
+The total net amount of "Profit/Losses" over the entire period
+The average change in "Profit/Losses" between months over the entire period
+The greatest increase in profits (date and amount) over the entire period
+The greatest decrease in losses (date and amount) over the entire period
 
 Financial Analysis:
  
@@ -14,18 +22,22 @@ Financial Analysis:
   Greatest Increase in Profits: ($1926159) in February 2012
   Greatest Decrease in Profits:  ($-2196167) in September 2013
   
-  Pypoll Final used a python script that determined election results task using a csv file, election.data.
   
   
-  Pypoll Final has the following analysis:
   
-  Election Results:
+Created a Python script to analyze and modernize the vote-counting process for a small, rural town using a set of poll data called [election_data.csv]. 
+The dataset is composed of three columns: Voter ID, County, and Candidate.
+
+The Python script will analyze the votes and calculate each of the following:
+
+The total number of votes cast
+A complete list of candidates who received votes
+The percentage of votes each candidate won
+The total number of votes each candidate won
+The winner of the election based on popular vote
   
- Total Votes: 3521001
-Khan : 63 % ( 2218231 )
-Correy : 20 % ( 704200 )
-Li : 14 % ( 492940 )
-O'Tooley : 3 % ( 105630 )
-Winner: Khan 2218231
+  
+  
+  
   
   
